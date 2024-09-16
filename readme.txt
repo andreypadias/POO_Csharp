@@ -22,5 +22,33 @@ El repositorio contiene los siguientes tipos de recursos:
 
 ---
 
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+**Andrey Padias**  
+
+# Programming III Repository - UAM
+
+This repository is intended to upload the code developed during class related to Object-Oriented Programming (OOP) in C#. It is part of the **Programming III** course at the **Universidad Americana (UAM)**.
+
+## Repository Purpose
+
+As a professor, my goal is to consistently share code examples that help students better understand key OOP concepts and their practical application in the C# programming language. The exercises and examples presented here are designed to complement the theoretical content of the course, providing a solid foundation for learning object-oriented programming.
+
+## Content
+
+The repository contains the following types of resources:
+
+- **Code examples**: Code snippets illustrating concepts such as inheritance, encapsulation, polymorphism, and other OOP principles.
+- **Complete projects**: Full C# applications implementing the topics covered in class.
+- **Support material**: Additional documentation or comments within the code to facilitate understanding.
+
+## Instructions
+
+1. Clone or download the repository.
+2. Open the `.cs` files with your preferred development environment (Visual Studio, Visual Studio Code, etc.).
+3. Review the code and follow the instructions or comments within the files to better understand each topic.
+
+---
+
 **Andrey Padias**  
 
