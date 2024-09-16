@@ -1,0 +1,12 @@
+Programación Orientada a Objetos (POO)
+La Programación Orientada a Objetos (POO) es una forma de organizar y estructurar el código en donde los datos y las funciones que operan sobre esos datos se agrupan en objetos. La idea central es que se puede representar cualquier cosa (una persona, un coche, una cuenta bancaria) como un objeto en el programa. Esto hace que el código sea más fácil de mantener y reutilizar.
+
+Ejemplo:
+Imagina un programa que simula una tienda. En lugar de tener variables sueltas para cada artículo, cliente o pedido, puedes crear objetos que representan estos elementos. Por ejemplo, puedes tener un objeto Articulo con atributos como nombre y precio, y métodos como calcularDescuento().
+
+Clase
+Una clase es como un plano o molde para crear objetos. Define las características (atributos) y comportamientos (métodos) que los objetos creados a partir de ella tendrán. No es el objeto en sí, sino la definición de cómo se verá ese objeto.
+
+Ejemplo:
+Piensa en la clase Coche. Esta clase puede tener atributos como marca, modelo y color, y métodos como arrancar() y frenar(). A partir de esa clase, puedes crear muchos coches (objetos) con diferentes marcas, modelos y colores.
+
